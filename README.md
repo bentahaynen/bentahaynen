@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha İsmail Ergin</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
-🤝I’m looking for help with React<br>💬Ask me about React<br>📫How to reach me **bentahaynen@gmail.com**<br>🌱I’m currently learning React, Java, Kotlin, .Net Core<br>
+🤝I’m looking for help with React<br>💬Ask me about React<br>📫How to reach me bentahaynen@gmail.com<br>🌱I’m currently learning React, Java, Kotlin, .Net Core<br>
 
 
 ## 🌐 Socials:
